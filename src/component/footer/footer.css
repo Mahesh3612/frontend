@@ -1,0 +1,9 @@
+.footer{
+  position: fixed;
+
+  bottom: 0px;
+ margin-top: 200px;
+  text-align: center;
+  width: 100%;
+  background-color: skyblue;
+}
